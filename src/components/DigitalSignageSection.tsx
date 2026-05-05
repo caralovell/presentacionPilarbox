@@ -3,11 +3,11 @@ import ScrollReveal from "./ScrollReveal";
 import cmsDashboard from "@/assets/dashboard-mockup.png";
 import player from "@/assets/android-media-player.jpg";
 import epaperDisplay from "@/assets/pantallaelect.png";
-import totemMain from "@/assets/maintotem.png";
-import totem1 from "@/assets/1totem.png";
-import totem2 from "@/assets/2totem.png";
-import totem3 from "@/assets/3totem.png";
-import totem4 from "@/assets/4totem.png";
+import totemMain from "@/assets/pi1.png";
+import totem1 from "@/assets/pi2.png";
+import totem2 from "@/assets/pi3.png";
+import totem3 from "@/assets/pi4.png";
+import totem4 from "@/assets/pi5.png";
 
 const totemSecondary = [
   { src: totem1, alt: "Tótem digital con anuncio en centro comercial" },
