@@ -4,8 +4,8 @@ import ScrollReveal from "./ScrollReveal";
 import NavilensSection from "./NavilensSection";
 import iconQr from "@/assets/qr-code-example.png";
 import iconNfc from "@/assets/shape-outline.png";
-import qrAscires from "@/assets/sonoqr.png";
-import nfcWipass from "@/assets/sonowipass.png";
+import qrAscires from "@/assets/pilarqr.png";
+import nfcWipass from "@/assets/piwi.png";
 
 const nfcUseCases = [
   { icon: CheckCircle2, text: "Check-in automático al llegar al recinto" },
